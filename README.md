@@ -35,7 +35,7 @@ Key findings from the analysis include:
 ## Visualization
 The project includes a comprehensive dashboard created in **Power BI**, highlighting key insights and recommendations.
 
-![Dashboard](images/dashboard.png)  <!-- Update the path if the image is in a different location -->
+![Dashboard](images/dashboard.png)  
 
 ## Conclusion
 This project provides a detailed analysis of the factors affecting Arabica coffee quality and offers practical recommendations for improving coffee standards. By leveraging data-driven insights, stakeholders can enhance coffee production processes and ultimately deliver a superior product to the market.
