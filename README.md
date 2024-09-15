@@ -1,4 +1,5 @@
 # Arabica Coffee Quality Improvement Project
+![dashboard](https://github.com/user-attachments/assets/6f41e865-a698-4e8e-87e0-2d77290e1bfd)
 
 ## Business Problem
 The project aims to identify the factors affecting Arabica coffee quality by analyzing a comprehensive dataset provided by CQI. By understanding these factors, the project seeks to improve coffee quality standards and support the development of the specialty coffee industry.
@@ -34,8 +35,6 @@ Key findings from the analysis include:
 
 ## Visualization
 The project includes a comprehensive dashboard created in **Power BI**, highlighting key insights and recommendations. 
-
-![dashboard](https://github.com/user-attachments/assets/6f41e865-a698-4e8e-87e0-2d77290e1bfd)
 
 ## Conclusion
 This project provides a detailed analysis of the factors affecting Arabica coffee quality and offers practical recommendations for improving coffee standards. By leveraging data-driven insights, stakeholders can enhance coffee production processes and ultimately deliver a superior product to the market.
