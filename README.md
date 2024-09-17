@@ -10,20 +10,22 @@ The project aims to identify the factors affecting Arabica coffee quality by ana
 - **Power Query**: For data cleaning and transformation.
 
 ## Dataset
-The dataset includes detailed information on coffee production, processing, and sensory evaluations, along with coffee genetics, soil types, and other influential factors. It contains **207 rows and 31 columns**.
+The dataset includes detailed information on coffee production, processing, and sensory evaluations and other influential factors. It contains **207 rows and 31 columns**.
 
 ## Data Cleaning and Preparation
 Several steps were taken to clean and prepare the data, including:
 - Removing irrelevant columns
+- Removing blanks and duplicates
 - Translating non-English text
-- Normalizing categorical data
-- Calculating additional features such as **Total Score, Coffee Cupping Score, and Moisture Range**.
+- Creating **Calculated columns** such as Total Defects, Coffee Cupping, and Moisture Range
+- Creating **Calculated measures** such as Total Variety, and Moisture Percentage
 
 ## Insights
 Key findings from the analysis include:
 - **Taiwan Coffee Laboratory** is the top-performing partner in enhancing coffee quality.
 - **Pulped Natural/Honey** is the recommended processing method for better coffee quality.
-- Maintaining **moisture content between 9-12%** is crucial for high-quality coffee.
+- Maintaining **Moisture content between 9-12%** is crucial for high-quality coffee.
+- **Yellow beans** are recommended to obtain good quality beans.
 - **Defects** in coffee are inversely proportional to its quality.
 
 ## Recommendations
@@ -31,6 +33,7 @@ Key findings from the analysis include:
 - **Collaborate with Experts**: Strengthen partnerships with leading coffee laboratories.
 - **Optimize Processing Methods**: Prioritize the Pulped Natural/Honey method for better results.
 - **Monitor Moisture Content**: Ensure coffee beans maintain optimal moisture levels.
+- **Quality Yellow Coffee Beans**: Source and select yellow coffee beans, for getting best flavors and ensuring a better starting point for production.
 - **Invest in Training**: Provide training and resources to coffee producers for better quality control.
 
 ## Visualization
